@@ -1,8 +1,9 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "MinimalDark",
         "author": "Pepender Podi#3158"
+        "updater": "https:\/\/raw.githubusercontent.com\/akashi04s\/minimal-dark\/main\/GG.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/842554030584365056\/842557190299582484\/TOGE_INUMAKI_1.jpg",
