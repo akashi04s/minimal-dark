@@ -29,14 +29,11 @@
         "input_background": 0
     },
     "colors": {
-        "brand_new": -14188851,
         "brand_new_560": 2135659477,
         "link": -10172242,
         "link_500": -14188851,
-        "primary_dark_100": 2116517581,
         "primary_dark_800": -905180405,
-        "primary_660": 405241549,
-        "primary_700": 824671949
+        "primary_660": 405241549
     },
     "drawable_tints": {},
     "raws": {}
